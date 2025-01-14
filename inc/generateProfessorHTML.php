@@ -18,7 +18,7 @@
                     <?php
                         $relatedProgram = get_field('related_programs');
                         if($relatedProgram) { ?>
-                            <p>Name teaches: <?php 
+                            <p><?php echo esc_html(the_title());?> teaches: <?php 
                                 foreach ($relatedProgram as $key => $program) {
                                     echo get_the_title($program);
                                     if ($key != array_key_last($relatedProgram) && (count($relatedProgram) > 1)) {
