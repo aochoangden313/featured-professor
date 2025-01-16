@@ -1,0 +1,2 @@
+<?php
+return ['project-id-version'=>'Featured Professor Block Type','report-msgid-bugs-to'=>'','pot-creation-date'=>'2025-01-16 07:29+0000','po-revision-date'=>'2025-01-16 07:30+0000','last-translator'=>'Brad','language-team'=>'Vietnamese','language'=>'vi','plural-forms'=>'nplurals=1; plural=0;','mime-version'=>'1.0','content-type'=>'text/plain; charset=UTF-8','content-transfer-encoding'=>'8bit','x-generator'=>'Loco https://localise.biz/','x-loco-version'=>'2.6.7; wp-6.7.1','x-domain'=>'featured-professor','messages'=>['Select a professor'=>'Lưa chọn giáo viên']];
